@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Username
+name: Marcelo Mora
 
 # Short bio or description (displayed in the header)
-description: Programmer From Somewhere On Earth
+description: Desarrollador de Software / Consultor Odoo
 
 
 #
@@ -21,7 +21,7 @@ footer-links:
   flickr:
   github: marcelomora
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin: /in/marcelomora
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
