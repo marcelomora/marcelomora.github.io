@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Conóceme
 permalink: /about/
 ---
 
-Soy consultor con más de tres años en el asesoramiento de la plataforma Odoo, tanto en la parte funcional como técnica. He desarrollado más de 20 módulos personalizados de de Odoo para diferentes clientes, entre los que se destacan el Ministerio de Salud Pública del y el Instituto Superior de la Cruz Roja, ambos en el Ecuador. Hice los cursos tanto técnico como funcional de Odoo, lo que me ha brindado una sólida base teórico-práctica de la plataforma y sus mejores prácticas.
+Soy consultor con más de tres años de experiencia en el asesoramiento de la plataforma Odoo, tanto en la parte funcional como técnica. He desarrollado más de 20 módulos personalizados de de Odoo para diferentes clientes, entre los que se destacan el Ministerio de Salud Pública del y el Instituto Superior de la Cruz Roja, ambos en el Ecuador. Hice los cursos tanto técnico como funcional de Odoo, lo que me ha brindado una sólida base teórico-práctica de la plataforma y sus mejores prácticas.
 Actualmente trabajo como desarrollador en una empresa que es Partner Oficial de Odoo, en donde mis funciones son dar soporte, consultoría técnica y funcional a las empresas más grandes que conforman todo el portafolio de clientes.
 
 ## Educación
