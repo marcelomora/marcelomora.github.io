@@ -4,52 +4,35 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+Soy consultor con más de tres años en el asesoramiento de la plataforma Odoo, tanto en la parte funcional como técnica. He desarrollado más de 20 módulos personalizados de de Odoo para diferentes clientes, entre los que se destacan el Ministerio de Salud Pública del y el Instituto Superior de la Cruz Roja, ambos en el Ecuador. Hice los cursos tanto técnico como funcional de Odoo, lo que me ha brindado una sólida base teórico-práctica de la plataforma y sus mejores prácticas.
+Actualmente trabajo como desarrollador en una empresa que es Partner Oficial de Odoo, en donde mis funciones son dar soporte, consultoría técnica y funcional a las empresas más grandes que conforman todo el portafolio de clientes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+## Educación
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-## Education
-
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Tecnólogo, Universidad Politécnica del Ejército (Ecuador)
 
 ## Roles
 
-Founder, ABC Organisation
+Consultor Técnico / Funcional Odoo, Accioma
+Consultor Técnico / Funcional Odoo, Zabyca Cía Ltda.
 
-## Skills
+## Habilidades
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* **Odoo** - `Desarrollo de módulos` / `Analista de Negocio` 
+* **Programación** - `Python` / `PHP` / `Java`
+* **Bases de Datos** - `PostgreSQL` / `MySQL`
+* **Desarrollo Web** - `HTML5` / `CSS3` / `Javascript` 
+* **Desarrollo Móvil** - `Android`
     
     
-## Achievements
+## Logros
 
 
-* [**This is my first achievement**](#) 
+* [**Optimización de sistema SGI**](#) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
+   Mejora del rendimiento del sistema SGI del Ministerio de Salud Pública del Ecuador. SGI, está basado en OpenERP y administra el inventario de todos los centros de atención a nivel nacional. Hice la optimización del sistema para que los usuarios puedan operar con normalidad sin esperas demasiado largas en la carga de información.
 ***
 
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
-
-## Contact me
+## Contacto
 
 [marcelo.mora@accioma.com](mailto:marcelo.mora@accioma.com)
