@@ -19,10 +19,10 @@ Consultor Técnico / Funcional Odoo, Zabyca Cía Ltda.
 ## Habilidades
 
 * **Odoo** - `Desarrollo de módulos` / `Analista de Negocio` 
-* **Programación** - `Python` / `PHP` / `Java`
+* **Programación** - `Python` / `PHP` / `Java SE`
 * **Bases de Datos** - `PostgreSQL` / `MySQL`
 * **Desarrollo Web** - `HTML5` / `CSS3` / `Javascript` 
-* **Desarrollo Móvil** - `Android`
+* **Desarrollo Móvil** - `Android / Java`
     
     
 ## Logros
