@@ -11,7 +11,7 @@ En esta entrada del blog vamos a ver un poco de criptografía y algunos fundamen
 
 El cifrado César es un tipo de encriptación que utiliza como método el modificar la posición de un símbolo o caracter a otro basado en un número entero denominado llave.
 
-Una forma de cifrar y descifrar un mensaje sería utilizando una [rueda de cifado]({{https://inventwithpython.com/cipherwheel/}}) para encontrar las equivalencias entre el símbolo original y el cifrado.
+Una forma de cifrar y descifrar un mensaje sería utilizando una [rueda de cifado](https://inventwithpython.com/cipherwheel/) para encontrar las equivalencias entre el símbolo original y el cifrado.
 
 Vamos a implementar el cifrado César en Python
 La posición la señalaríamos con la siguiente cadena de caracteres.
